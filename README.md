@@ -9,6 +9,16 @@ e Reconhecimento de voz" da Alura.
 Todos os arquivos foram criados do zero, mas o principal aqui era praticar o uso do JavaScript.
 
 
+🛠️ Tecnologias utilizadas
+---
+- ``HTML5``
+- ``CSS3``
+- ``JavaScript``
+
+
+
 ![jogodonumerosecreto](numerosecreto.jpg)
+
+
 
 
